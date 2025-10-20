@@ -114,8 +114,8 @@ body {
  .hero h1 {
     font-size: 3rem;
     margin-bottom: 1.5rem;
-    background: linear-gradient(45deg, var(--accent) 30px), #ffffff 70%;
-    color: var(--accent);
+    /* background: linear-gradient(45deg, var(--accent) 30px), #ffffff 70%;
+    color: var(--accent); */
 }
 
 .hero p {
